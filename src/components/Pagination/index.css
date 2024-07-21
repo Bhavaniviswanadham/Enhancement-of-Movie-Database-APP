@@ -1,0 +1,12 @@
+.button {
+  color: white;
+  background-color: rgb(23, 212, 237);
+  height: 30px;
+  width: 90px;
+  border-radius: 5px;
+  border-width: 0px;
+  margin: 7px;
+}
+.page-no {
+  font-size: 40px;
+}
